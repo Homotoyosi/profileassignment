@@ -1,0 +1,36 @@
+.profilecard{
+img{
+    width: 150px;
+    height: 135px;
+    border-radius: 10px;
+    padding-top: 50px;
+}
+}
+.card1{
+    width: 250px;
+    height: 380px;
+    border-radius: 20px;
+    background-color: lightblue;
+    color: black;   
+}
+.card2{
+    width: 250px;
+    height: 380px;
+    border-radius: 20px;
+    background-color: lightcoral;
+    color: black; 
+}
+.card3{
+    width: 250px;
+    height: 380px;
+    border-radius: 20px;
+    background-color: lightgreen;
+    color: black;   
+}
+.card4{
+    width: 250px;
+    height: 380px;
+    border-radius: 20px;
+    background-color: lightgray;
+    color: black;
+}

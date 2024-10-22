@@ -1,0 +1,36 @@
+.productlisting{
+    margin: 0;
+    img{
+        width: 130px;
+        height: 120px;
+        border-radius: 10px;
+        padding-top: 50px;
+    }
+}
+.listing1{
+    width: 280px;
+    height: 430px;
+    border-radius: 20px;
+    background-color: lightblue;
+
+}
+.listing2{
+    width: 280px;
+    height: 430px;
+    border-radius: 20px;
+    background-color: lightcoral;
+}
+.listing3{
+    width: 280px;
+    height: 430px;
+    border-radius: 20px;
+    background-color: lightgreen;
+
+}
+.listing4{
+    width: 280px;
+    height: 430px;
+    border-radius: 20px;
+    background-color: lightgrey;
+
+}
